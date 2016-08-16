@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-une autre information
-=======
 je mets de l'information dedans
->>>>>>> dev-Olo
+
